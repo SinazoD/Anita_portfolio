@@ -166,6 +166,28 @@
     display: block;
   }
   
+  #about-txt {
+    display: none;
+  }
+
+  .control-2:hover #about-txt {
+    display: block;
+  }
+
+  #portfolio-txt {
+    display: none;
+  }
+
+  .control-3:hover #portfolio-txt {
+    display: block;
+  }
+  #contact-txt {
+    display: none;
+  }
+
+  .control-5:hover #contact-txt {
+    display: block;
+  }
   .theme-btn {
 
     top: 5%;
